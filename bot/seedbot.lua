@@ -231,6 +231,8 @@ function create_config( )
 	"supergroup",
 	"whitelist",
 	"msg_checks",
+	"repley",			
+    "lock_media",
     },
     sudo_users = {86520459,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
