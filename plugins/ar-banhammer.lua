@@ -1,6 +1,6 @@
 --[[ 
-▀▄ ▄▀ @BRWUEN          
-▀▄ ▄▀ @dev_boots                                     
+▀▄ ▄▀ @haiderqwwq         
+▀▄ ▄▀ @haiderqwwq97-bot                                    
 --]]
 
 local function pre_process(msg)
