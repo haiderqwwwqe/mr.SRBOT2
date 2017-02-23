@@ -1,5 +1,5 @@
 قنــــــــــــــــــــاة الســورس
-# [dev_boots](https://telegram.me/dev_boots)
+# [roroc1](https://telegram.me/roroc1)
 
 
 *******************************************************************
@@ -21,7 +21,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/0BRWUEN0/BRWUEEN.git
+git clone https://github.com/haiderqwwwqe/mr.SRBOT.git
 *****************************************************
 ورهأ خلي 👇🏿 And vinegary
 **************************
@@ -63,7 +63,7 @@ redis-server
 وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/0BRWUEN0/BRWUEEN.git && cd BRWUEEN && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/haiderqwwwqe/mr.SRBOT.git && cd mr.SRBOT && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -81,16 +81,16 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ✋🏿 لتصبح مطور بوتك غير الايدي خاص كونفج بايديك 👇🏿
 ```
   sudo_users = {
-    190385827,
+    86520459,
     0,
     YourID
   }
 ```
 😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-#Dev : [@BRWUEN](https://telegram.me/BRWUEN)
-#Dev_BOT :  [@lBRWUEN_BOT](https://telegram.me/lBRWUEN_BOT)
-#Dev_Channel :  [@dev_boots](https://telegram.me/dev_boots)
+#Dev : [@haiderqwwq](https://telegram.me/haiderqwwq)
+#Dev_BOT :  [@haiderqwwq97_bot](https://telegram.me/haiderqwwq97_BOT)
+#Dev_Channel :  [@roroc1](https://telegram.me/roroc1)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
 You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
