@@ -1,6 +1,6 @@
 --[[ 
---@BRWUEN
---@dev_boots
+--@haiderqwwq
+--@haiderqwwq97_bot
 --]]
 do
 
@@ -38,6 +38,6 @@ return {
   }, 
   run = run,
 }
--- arabic : @dev_boots
+-- haider : @haiderqwwq97_bot
 
 end
